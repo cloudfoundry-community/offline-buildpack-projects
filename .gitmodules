@@ -1,0 +1,30 @@
+[submodule "go"]
+	path = go
+	url = https://github.com/cloudfoundry-samples/logging-route-service.git
+[submodule "php"]
+	path = php
+	url = https://github.com/cloudfoundry-samples/cf-ex-php-info.git
+[submodule "static-file"]
+	path = static-file
+	url = https://github.com/govau/cf-example-staticfile.git
+[submodule "java"]
+	path = java
+	url = https://github.com/cloudfoundry-samples/hello-spring-cloud.git
+[submodule "dotnet-linux"]
+	path = dotnet-linux
+	url = https://github.com/cloudfoundry-samples/dotnet-core-hello-world
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/cloudfoundry-community/cf-env
+[submodule "binary"]
+	path = binary
+	url = https://github.com/cloudfoundry-samples/logging-route-service
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/amlandatta/pcf-ui-samples/
+[submodule "nodejs"]
+	path = nodejs
+	url = https://github.com/ryanmriddell/offline_node_js_cf.git
+[submodule "r"]
+	path = r
+	url = https://github.com/TheDigitalEagle/r-shiny-hello-world.git
